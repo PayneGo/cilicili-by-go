@@ -1,9 +1,9 @@
 package api
 
 import (
-	"cilicili/conf"
-	"cilicili/model"
-	"cilicili/serializer"
+	"cilicili.live/cilicili/conf"
+	"cilicili.live/cilicili/model"
+	"cilicili.live/cilicili/serializer"
 	"encoding/json"
 	"fmt"
 

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"cilicili/conf"
-	"cilicili/server"
+	"cilicili.live/cilicili/conf"
+	"cilicili.live/cilicili/server"
 )
 
 func main() {

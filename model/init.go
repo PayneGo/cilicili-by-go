@@ -1,7 +1,7 @@
 package model
 
 import (
-	"cilicili/util"
+	"cilicili.live/cilicili/util"
 	"log"
 	"os"
 	"time"

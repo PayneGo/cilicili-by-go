@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"cilicili/util"
+	"cilicili.live/cilicili/util"
 	"os"
 	"strconv"
 

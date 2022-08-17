@@ -1,9 +1,9 @@
 package conf
 
 import (
-	"cilicili/cache"
-	"cilicili/model"
-	"cilicili/util"
+	"cilicili.live/cilicili/cache"
+	"cilicili.live/cilicili/model"
+	"cilicili.live/cilicili/util"
 	"os"
 
 	"github.com/joho/godotenv"

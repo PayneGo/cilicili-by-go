@@ -1,6 +1,6 @@
 package serializer
 
-import "cilicili/model"
+import "cilicili.live/cilicili/model"
 
 // User 用户序列化器
 type User struct {

@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"cilicili/model"
-	"cilicili/serializer"
+	"cilicili.live/cilicili/model"
+	"cilicili.live/cilicili/serializer"
 
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"

@@ -1,8 +1,8 @@
 package api
 
 import (
-	"cilicili/serializer"
-	"cilicili/service"
+	"cilicili.live/cilicili/serializer"
+	"cilicili.live/cilicili/service"
 
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"

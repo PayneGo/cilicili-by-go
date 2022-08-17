@@ -1,8 +1,8 @@
 package server
 
 import (
-	"cilicili/api"
-	"cilicili/middleware"
+	"cilicili.live/cilicili/api"
+	"cilicili.live/cilicili/middleware"
 	"os"
 
 	"github.com/gin-gonic/gin"
